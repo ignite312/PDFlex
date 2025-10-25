@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"components/PDFViewer.tsx -> pdf-lib\":{\"id\":\"components/PDFViewer.tsx -> pdf-lib\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_pdf-lib_es_index_js.js\"]}}"
